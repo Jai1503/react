@@ -1,0 +1,7 @@
+version: '1'
+
+services:
+  app1:
+    image: jaya1503/dev:v1
+    ports:
+      - "80:80"
